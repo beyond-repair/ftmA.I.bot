@@ -1,31 +1,6 @@
-File Operation Logger write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\trading_bot.py #6a286369896000d499c05358a5c79d4d
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\trading_strategies.py #953ea02581c1a4fa6c909987fc50633a
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\stop_loss.py #f9793fc6f372da699451ea915671d970
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\flashloan_front_running.py #061bc9a4a46ee5df09546f3d6b643587
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\fundamental_analysis.py #bfa6b3761d8b079e826a93b8172d14c6
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\technical_analysis.py #62f235c2d8fca0bdee58933607872de5
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\ta_bot.py #8e2bfd50f35d0266a52ef703becb0b05
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_ta_bot.py #db41f43d710df0989611e3075db0faea
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_ta_bot.py #a0b5846528c5b459419f5b3dd814f16f
-append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_ta_bot.py #2031339c38b10263ed8e74f41c374dc7
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py #bc359d7655d704a6108437947291a3be
-delete: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py #bc359d7655d704a6108437947291a3be
-append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py #1765f2eac94e93b1ab916ddb5faf7ebf
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\improve_python_code_analyzer.txt #f77a941a2a3897c2ecbcd74305e725b8
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\improved_code.py #7d46f01124c246e7284cfe7035808aae
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\basic_ta_strategy.py #39f93585ce32d87c8bc267bd8583dd48
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\requirements.txt #1dce20a3e4580955ac23d25ea6d2c502
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_requirements.py #61eb98fddba30a9283fb951640c2c5f4
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\trading_strategies.txt #c1f9fef6efea1a1db9eca3f2aaf0b9e4
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #354f2b9c32661f87c01eb889b66eb2c1
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #4f78c152fcbb8874eb1bb937f1bdd1d3
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #05fbfc6b05d7118e7b782fb92b85e85c
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #4f78c152fcbb8874eb1bb937f1bdd1d3
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #05fbfc6b05d7118e7b782fb92b85e85c
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #681277329e6921f0e453b7d6442d0768
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #ee729860c8187b9bff77d9bbd8158baf
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #681277329e6921f0e453b7d6442d0768
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #3cdf06ea4bcad65673a99d13ca392678
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\pysimplegui_installation.py #681277329e6921f0e453b7d6442d0768
-write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\gather_data.py #b66388dda82229215454953295c18acb
+File Operation Logger write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\fantom_trading_bot.py #8c36b3c49e5760e8ad616acf65da038f
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\analyze_fantom_code.py #c597e7964f1978f3c107a435b479c47a
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_requests_module.py #e899af152b35231de86c81e83cc60050
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\analyze_fantom_code.py #71f5f08b4a8909a63e3a96c8ebf4575a
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_requests_module.py #edb68b4bd3c05d99107a441a3078d853
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_requests.sh #0fca2a3154a9981dfe4a8721b6060a9f

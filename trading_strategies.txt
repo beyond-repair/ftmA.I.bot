@@ -1,0 +1,10 @@
+Trading Strategy Suggestions:
+
+1. Trend following: This strategy involves identifying the direction of the trend and trading in the same direction. For example, if the trend is bullish, you would buy FTM and hold it until the trend changes.
+
+2. Breakout trading: This strategy involves identifying key levels of support and resistance and trading when the price breaks through these levels. For example, if the price of FTM breaks through a key resistance level, you would buy FTM and hold it until the price reaches the next resistance level.
+
+3. Swing trading: This strategy involves buying and holding FTM for a short period of time, typically a few days to a few weeks, and then selling it for a profit. This strategy is based on the idea that prices tend to swing back and forth between support and resistance levels.
+
+4. Scalping: This strategy involves making multiple trades throughout the day, taking advantage of small price movements. This strategy requires a lot of time and attention, but can be very profitable if done correctly.
+

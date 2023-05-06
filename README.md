@@ -16,10 +16,12 @@ pip install ftmA.I.bot
 
 Here is some external links that you can use in your `README.md` file.
 
-- [First Link](https://google.com)
-- [Second Link](https://google.com)
-- [Third Link](https://google.com)
+- [First Link][def]
+- [Second Link][def]
+- [Third Link][def]
 
 #
 
 Copyright © 2023 -  . All rights reserved.
+
+[def]: https://google.com

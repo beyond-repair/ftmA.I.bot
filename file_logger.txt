@@ -1,0 +1,16 @@
+File Operation Logger write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\trading_bot.py #6a286369896000d499c05358a5c79d4d
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\trading_strategies.py #953ea02581c1a4fa6c909987fc50633a
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\stop_loss.py #f9793fc6f372da699451ea915671d970
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\flashloan_front_running.py #061bc9a4a46ee5df09546f3d6b643587
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\fundamental_analysis.py #bfa6b3761d8b079e826a93b8172d14c6
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\technical_analysis.py #62f235c2d8fca0bdee58933607872de5
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\ta_bot.py #8e2bfd50f35d0266a52ef703becb0b05
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_ta_bot.py #db41f43d710df0989611e3075db0faea
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_ta_bot.py #a0b5846528c5b459419f5b3dd814f16f
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_ta_bot.py #2031339c38b10263ed8e74f41c374dc7
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py #bc359d7655d704a6108437947291a3be
+delete: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py #bc359d7655d704a6108437947291a3be
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_dependencies.py #1765f2eac94e93b1ab916ddb5faf7ebf
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\improve_python_code_analyzer.txt #f77a941a2a3897c2ecbcd74305e725b8
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\improved_code.py #7d46f01124c246e7284cfe7035808aae

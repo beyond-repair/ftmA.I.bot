@@ -1,0 +1,4 @@
+Here is a list of programming languages and software packages that are compatible with the Fantom blockchain:
+- Solidity, Truffle, Hyperledger Fabric, Exonum, Rust
+
+We will evaluate the compatibility of each programming language and software package found in the search results and choose the best ones for building the trading bot.

@@ -1,0 +1,14 @@
+Trading Techniques List:
+
+1. Fundamental Analysis (FA)
+
+Fundamental analysis is a method of evaluating securities by attempting to measure its intrinsic value by examining related economic, financial and other qualitative and quantitative factors.
+
+Implementation: The trading bot could utilize economic and financial data and other related factors to determine current market trends. 
+
+2. Technical Analysis (TA)
+
+Technical analysis involves evaluating securities solely on the basis of past prices. By charting the stock's price over a period of time and looking for patterns, traders can start to predict future price movements.
+
+Implementation: Given the availability of historical price data, the trading bot can utilize technical indicators to predict price movements and execute trades accordingly.
+

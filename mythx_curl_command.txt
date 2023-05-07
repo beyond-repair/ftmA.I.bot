@@ -1,0 +1,1 @@
+curl -X POST -H "Authorization: <YOUR_API_KEY>" -H "Content-Type: application/json" -d '{"contractName": "<CONTRACT_NAME>", "bytecode": "<BYTECODE>", "sourceMap": "<SOURCE_MAP>", "deployedBytecode": "<DEPLOYED_BYTECODE>", "deployedSourceMap": "<DEPLOYED_SOURCE_MAP>", "sourceList": ["<SOURCE_FILE>"], "analysisMode": "quick"}' https://api.mythx.io/v1/analyses

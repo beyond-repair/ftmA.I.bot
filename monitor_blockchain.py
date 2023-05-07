@@ -1,0 +1,1 @@
+# Write code here to continuously monitor FTM blockchain for arbitrage opportunities and execute trades promptly to capitalize on them

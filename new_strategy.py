@@ -1,0 +1,1 @@
+# Write code here to modify strategy to only trade FTM/stablecoin pairs and implement algorithm for selecting best trading strategy based on real-time data

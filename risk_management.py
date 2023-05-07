@@ -1,0 +1,1 @@
+# Write code here to implement risk management techniques to minimize losses and protect investment

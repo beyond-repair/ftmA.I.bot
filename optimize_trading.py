@@ -1,0 +1,1 @@
+# Write code here to optimize trading parameters and adjust them as necessary to improve performance and adapt to changing market conditions

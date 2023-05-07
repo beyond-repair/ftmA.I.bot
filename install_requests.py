@@ -1,4 +1,2 @@
-# Install the 'requests' module
-import subprocess
-
-subprocess.call(['pip', 'install', 'requests'])
+import os
+os.system('pip install requests')

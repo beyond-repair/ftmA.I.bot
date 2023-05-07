@@ -1,0 +1,1 @@
+# Write code here to provide regular reports and insights on trading performance and suggest improvements to enhance profitability

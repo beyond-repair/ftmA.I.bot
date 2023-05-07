@@ -1,0 +1,1 @@
+To install pandas, run the following command: conda install pandas

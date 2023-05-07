@@ -6,3 +6,4 @@ hmac
 hashlib
 base64
 urllib
+web3

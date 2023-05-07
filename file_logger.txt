@@ -4,3 +4,11 @@ write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspa
 write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\analyze_fantom_code.py #71f5f08b4a8909a63e3a96c8ebf4575a
 write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_requests_module.py #edb68b4bd3c05d99107a441a3078d853
 write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_requests.sh #0fca2a3154a9981dfe4a8721b6060a9f
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\ftx_api.py #37e521f72fb80cf0ef8ac703bae5b5f3
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_pandas.py #ef67bda3237e8c6d13e4003cf563c76d
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\fantom_analysis.py #fde16cd3ad7d684db43170f9ad140589
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\requirements.txt #5d7e5632b7de1fbc6281cce716e0e427
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\install_web3.py #0371a69b996185da7d079901543836cd
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\continuous_trading_bot.py #ecda579e92cf4650a4178474afb61726
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\requests_module.py #f0e35fd406f48913a330abb14bd9fd6f
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\fantom_analysis.py #5e957a1664b228413dba4608e5b90b6c

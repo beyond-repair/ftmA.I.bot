@@ -1,0 +1,1 @@
+I am currently reading articles from Forbes Advisor, Morningstar, and Acuity Knowledge Partners to get a better understanding of recent trends in the cryptocurrency market. I will also use the 'get_hyperlinks' command to extract any relevant links from these articles. Additionally, I will check for any news or events that could impact the market using the 'google' command.'

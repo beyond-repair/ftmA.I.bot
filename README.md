@@ -1,27 +1,9 @@
-# ftmA.I.bot
+Welcome to CryptoTraderGPT!
 
-This project was created using [PyBridge](https://github.com/hbisneto/PyBridge)
+This trading system utilizes a variety of strategies including trend following, breakout trading, swing trading, scalping, frontrunning, swandwich bot, fundamental analysis, and technical analysis to maximize profits and minimize risk in the volatile cryptocurrency market.
 
-## Requirements
+To get started, simply run the 'main.py' file and follow the prompts. The system will guide you through the process of setting up your trading account and configuring your trading strategies.
 
-ftmA.I.bot requires Python 3.9.0 or later to run
+If you have any questions or issues, please refer to the 'FAQ' section of the readme file or contact us at support@cryptotradergpt.com.
 
-## Installation
-
-```
-pip install ftmA.I.bot
-```
-
-## External Links
-
-Here is some external links that you can use in your `README.md` file.
-
-- [First Link][def]
-- [Second Link][def]
-- [Third Link][def]
-
-#
-
-Copyright © 2023 -  . All rights reserved.
-
-[def]: https://google.com
+Happy trading!

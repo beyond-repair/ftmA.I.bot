@@ -43,3 +43,43 @@ write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspa
 write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\write_modules.py #26f711a728de666b5a15da28a53f2258
 write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_modules.py #a836c4b8b4ec22040eb71468ea82a472
 write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_modules_error.txt #854e1b6e29d5f8b6a4accbe792fc63d8
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\test_cases.txt #5972bd467f8ec3f4286bf80abfd98622
+write: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #c8ddd49b4d677e9abec6a98932d1e31e
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #2003fd4387109e34d569b6a120e63c0a
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #d9ef07211e5a50b62da76b7b4b83b73b
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #168263a7fc5e674cc0eefd1a4b09fcbe
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #1cf819c42490f274e62fb4ccf669793d
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #4774b52f9984339d77cb2efd154acbd0
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #24d7180f8e7a458cb66817f12798bbc8
+append: C:\Users\William ware\Desktop\autogpt 2\Auto-GPT\autogpt\auto_gpt_workspace\arbitrage_script.py #a0bcf6374f9b711e228b04808af1f86d
+write: /app/autogpt/auto_gpt_workspace/check_matplotlib.py #c0e28bd61d2cb622cd2321991cf1646c
+write: /app/autogpt/auto_gpt_workspace/create_matplotlib.py #c1235b641ebd087e789245a8ae168899
+write: /app/autogpt/auto_gpt_workspace/seaborn.py #7a5e7ea9f21c7f1ca8247cd0c7356ac1
+write: /app/autogpt/auto_gpt_workspace/fantom_data.csv #ee10db88da05e33ca440486c0b863c5d
+write: /app/autogpt/auto_gpt_workspace/analyze_market_trends.py #56a5bba4b08b679f1e4a968ee3bdbe47
+write: /app/autogpt/auto_gpt_workspace/install_pandas.py #c3cb9859ec4997fc83874af18f5246d0
+write: /app/autogpt/auto_gpt_workspace/install_pandas.py #93a08082c1d81447cb7cc5f642722265
+write: /app/autogpt/auto_gpt_workspace/analyze_market_trends.py #7acf13efd1246a9fab6e36f5ce119146
+write: /app/autogpt/auto_gpt_workspace/download_market_data.py #2a0528b001ee1f58ac7ca09109fc111e
+write: /app/autogpt/auto_gpt_workspace/download_market_data.py #6d0aeafbf47f66c3dbcd99b4cdb4d0cb
+write: /app/autogpt/auto_gpt_workspace/download_market_data.py #005eee4dd7a51dff3939fbc2fccb322b
+write: /app/autogpt/auto_gpt_workspace/download_market_data.py #c10889764a72f7799bf13fe7889217cd
+write: /app/autogpt/auto_gpt_workspace/download_market_data.py #6651391650820a58b2264ffd4819bbf0
+write: /app/autogpt/auto_gpt_workspace/download_market_data.py #80a0dfdfc7a4e595b3e19a2663f2dd02
+write: /app/autogpt/auto_gpt_workspace/analyze_market_data.py #e7d77961fb0133ef6b001c8ac3dbdb11
+append: /app/autogpt/auto_gpt_workspace/error_log.txt #16e386d8a3b96732005497082a2f133e
+write: /app/autogpt/auto_gpt_workspace/analyze_market_data.py #dcf3139e400d3d25548b6dce6ba2ee21
+write: /app/autogpt/auto_gpt_workspace/analyze_market_data.py #8b4843a6e6dc3bb45e66cc976bd85fdb
+write: /app/autogpt/auto_gpt_workspace/analyze_market_data.py #141c6b54d651202dd6d94ce2f4fe7225
+write: /app/autogpt/auto_gpt_workspace/analyze_market_data.py #e4c30e412708e996cb0b05c1b5dfad79
+write: /app/autogpt/auto_gpt_workspace/crypto_trader.py #3db96377aafeeabb825f05369e43dba2
+write: /app/autogpt/auto_gpt_workspace/BTC-USD.csv #4065302e6a513c28373b2f321cec2b79
+write: /app/autogpt/auto_gpt_workspace/check_wallet_balance.py #0473b202f3e8e950e0a18713b97f72df
+write: /app/autogpt/auto_gpt_workspace/check_modules.py #a4d2925a9ad688f667186613b1ddd95d
+write: /app/autogpt/auto_gpt_workspace/check_wallet.py #93532cf39bbc86f9dc60ce676a58f1f6
+write: /app/autogpt/auto_gpt_workspace/test_wallet.py #fc0fd8b711ad837716de5ed73bde9f64
+write: /app/autogpt/auto_gpt_workspace/recent_trends.txt #5e89de93ff300deca3cbc95d5dd0191f
+write: /app/autogpt/auto_gpt_workspace/trading_strategies.txt #e96e8106380a2d1bee19e4d11e393dcd
+write: /app/autogpt/auto_gpt_workspace/<filename> #a9efc76eba2a542404edf62894d4aebe
+write: /app/autogpt/auto_gpt_workspace/check_wallet_status.py #07e43d7a55ff642d78a4ae15b179d5e4
+write: /app/autogpt/auto_gpt_workspace/README.md #28286537c8712afc68b90cd3e1be9aa1

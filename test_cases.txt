@@ -1,0 +1,7 @@
+1. Test that the bot is able to connect to the FTM blockchain using the provided MetaMask private key.
+2. Test that the bot is able to retrieve real-time market data from the FTM blockchain.
+3. Test that the bot is able to analyze the market data and identify profitable trading opportunities using the various trading strategies.
+4. Test that the bot is able to execute trades on the FTM blockchain using the identified trading strategies.
+5. Test that the bot is able to monitor the performance of its trades and adjust its trading strategies accordingly.
+6. Test that the bot is able to handle errors and exceptions gracefully, such as network connectivity issues or incorrect market data.
+7. Test that the bot is able to generate accurate reports of its trading performance, including profits and losses.

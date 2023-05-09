@@ -1,2 +1,4 @@
-import os
-os.system('pip install pandas')
+# Install pandas library
+import subprocess
+
+subprocess.call(['pip', 'install', 'pandas'])
